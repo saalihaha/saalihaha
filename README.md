@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saalihaha
+- 👋 Hi, I’m @saalihah
 - 👀 I’m interested in expanding my knowledge in computer science and tech.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on new projects.
