@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saalihahlatiff
+- 👋 Hi, I’m Saalihah Latiff
 - 👀 I’m interested in expanding my knowledge in computer science and tech.
-- 🌱 I’m currently learning C++, HTML, CSS, & TailwinCSS
-- 💞️ I’m looking for learning oppurtunities and collaborating on new projects.
+- 🌱 I’m currently learning C++, HTML, & CSS.
+- 💞️ I’m looking for learning oppurtunities and collaborating on new projects. I am also actively looking for internship and career roles.
 - 📫 How to reach me ... email:saalihahlatiff@gmail.com
 
 <!---
